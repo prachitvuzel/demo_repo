@@ -1,4 +1,4 @@
 # demo_repo
-Author is prachit
+Author is prachit Bhujel
 <br>
 This is next line
